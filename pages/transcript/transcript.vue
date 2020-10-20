@@ -10,6 +10,9 @@
 <script>
 	import FooterBox from '../../components/Footer-box/Footer-box.vue'
 	import util from '../../util/event_library.js'
+	import {
+		event
+	} from '../../util/event.js'
 	export default {
 		data() {
 			return {
@@ -24,7 +27,9 @@
 		},
 		methods: {
 			initData() {
-				console.log(util.aa())
+			
+				// console.log(event)
+				console.log(util.handleRandom())
 			}
 		},
 		mounted() {
