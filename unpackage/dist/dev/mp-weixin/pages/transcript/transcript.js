@@ -145,8 +145,8 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.default = 
 
 
 
-var _event_library = _interopRequireDefault(__webpack_require__(/*! ../../util/event_library.js */ 33));
-var _event = __webpack_require__(/*! ../../util/event.js */ 34);function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}var FooterBox = function FooterBox() {__webpack_require__.e(/*! require.ensure | components/Footer-box/Footer-box */ "components/Footer-box/Footer-box").then((function () {return resolve(__webpack_require__(/*! ../../components/Footer-box/Footer-box.vue */ 44));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};var _default =
+var _event_library = _interopRequireDefault(__webpack_require__(/*! ../../util/event_library.js */ 55));
+var _event = __webpack_require__(/*! ../../util/event.js */ 56);function _interopRequireDefault(obj) {return obj && obj.__esModule ? obj : { default: obj };}var FooterBox = function FooterBox() {__webpack_require__.e(/*! require.ensure | components/Footer-box/Footer-box */ "components/Footer-box/Footer-box").then((function () {return resolve(__webpack_require__(/*! ../../components/Footer-box/Footer-box.vue */ 44));}).bind(null, __webpack_require__)).catch(__webpack_require__.oe);};var _default =
 
 
 {

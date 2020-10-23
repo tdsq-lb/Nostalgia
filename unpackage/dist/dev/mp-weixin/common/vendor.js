@@ -8013,7 +8013,18 @@ module.exports = g;
 
 /***/ }),
 
-/***/ 33:
+/***/ 4:
+/*!*******************************!*\
+  !*** F:/Nostalgia/pages.json ***!
+  \*******************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+
+
+/***/ }),
+
+/***/ 55:
 /*!******************************************!*\
   !*** F:/Nostalgia/util/event_library.js ***!
   \******************************************/
@@ -8021,7 +8032,7 @@ module.exports = g;
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-var _event = __webpack_require__(/*! ./event.js */ 34);function _classCallCheck(instance, Constructor) {if (!(instance instanceof Constructor)) {throw new TypeError("Cannot call a class as a function");}}function _defineProperties(target, props) {for (var i = 0; i < props.length; i++) {var descriptor = props[i];descriptor.enumerable = descriptor.enumerable || false;descriptor.configurable = true;if ("value" in descriptor) descriptor.writable = true;Object.defineProperty(target, descriptor.key, descriptor);}}function _createClass(Constructor, protoProps, staticProps) {if (protoProps) _defineProperties(Constructor.prototype, protoProps);if (staticProps) _defineProperties(Constructor, staticProps);return Constructor;}var
+var _event = __webpack_require__(/*! ./event.js */ 56);function _classCallCheck(instance, Constructor) {if (!(instance instanceof Constructor)) {throw new TypeError("Cannot call a class as a function");}}function _defineProperties(target, props) {for (var i = 0; i < props.length; i++) {var descriptor = props[i];descriptor.enumerable = descriptor.enumerable || false;descriptor.configurable = true;if ("value" in descriptor) descriptor.writable = true;Object.defineProperty(target, descriptor.key, descriptor);}}function _createClass(Constructor, protoProps, staticProps) {if (protoProps) _defineProperties(Constructor.prototype, protoProps);if (staticProps) _defineProperties(Constructor, staticProps);return Constructor;}var
 
 
 
@@ -8056,7 +8067,7 @@ module.exports = new util();
 
 /***/ }),
 
-/***/ 34:
+/***/ 56:
 /*!**********************************!*\
   !*** F:/Nostalgia/util/event.js ***!
   \**********************************/
@@ -8069,17 +8080,6 @@ Object.defineProperty(exports, "__esModule", { value: true });exports.probabilit
 
 var probability = [
 0.1, 0.2, 0.3, 0.4];exports.probability = probability;
-
-/***/ }),
-
-/***/ 4:
-/*!*******************************!*\
-  !*** F:/Nostalgia/pages.json ***!
-  \*******************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-
 
 /***/ })
 
