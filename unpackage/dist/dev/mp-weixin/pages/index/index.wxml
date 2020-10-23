@@ -1,0 +1,1 @@
+<view class="home"><button style="background-color:#f5a623;" type="default" data-event-opts="{{[['tap',[['navigatorHander',['$event']]]]]}}" bindtap="__e">开始</button></view>

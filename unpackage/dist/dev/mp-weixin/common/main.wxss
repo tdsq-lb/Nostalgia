@@ -1,0 +1,22 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*每个页面公共css */
+page {
+	height: 100%;
+	background-color: #4a90e2;
+	padding: 30rpx;
+}
+

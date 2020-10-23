@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "关卡",
+  "usingComponents": {
+    "dialog-box": "/components/Dialog-box/Dialog-box",
+    "footer-box": "/components/Footer-box/Footer-box"
+  }
+}

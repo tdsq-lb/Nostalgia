@@ -1,0 +1,1 @@
+<view><view data-event-opts="{{[['tap',[['handleCancel',['$event']]]]]}}" class="Dialog-box" bindtap="__e"></view><view class="content"><button style="background-color:#f5a623;" type="default" data-event-opts="{{[['tap',[['navigatorHander',['$event']]]]]}}" bindtap="__e">开始</button></view></view>
